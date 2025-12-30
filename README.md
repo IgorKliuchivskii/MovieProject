@@ -23,8 +23,11 @@ You can download the original datasource here: [Movie Dataset Excel file](https:
 1. Power Query - I used Power Query for Data Cleaning
 2. Excel - I used Excel for Data Analysis
 3. Pivot Tables - for Creating the dashboard and Visualizations
+
 ### Data Cleaning and Preparation
 - Data loading and inspection.
 - Handling errors, missing values.
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashboard](https://github.com/user-attachments/files/24380342/Movie.data.Igor.xlsx)
+### Dashboard
+<img width="810" height="614" alt="image" src="https://github.com/user-attachments/assets/99771be6-1e62-456e-b52f-6a0c695a3d31" />
 
